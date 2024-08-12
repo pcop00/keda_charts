@@ -12,7 +12,7 @@ image:
     # -- Image registry of KEDA operator
     registry: ghcr.io
     # -- Image name of KEDA operator
-    repository: kedacore/keda
+    repository: pcop00/keda
     # -- Image tag of KEDA operator. Optional, given app version of Helm chart is used by default
     tag: ""
   metricsApiServer:
